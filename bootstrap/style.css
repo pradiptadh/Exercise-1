@@ -1,0 +1,40 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+.navbar{
+    border: 0px;
+    margin: 0;
+    padding: 0;
+}
+.item img{
+    width: 100%;
+    height: auto;
+    max-height: 590px;
+}
+#portofolio{
+     background-color: #ECECEC;
+
+}
+
+#description{
+    background-color: #ECECEC;
+}
+.wrapper-pad{
+    padding: 5% 0 ;
+}
+
+#kolaborasi{
+    width: auto;
+}
+
+.footer{
+    padding: 10px;
+    color: white;
+    background-color: #013243;
+}
+
+.fa{
+    margin: 5px 10px 0 0;
+    color: white;
+}
