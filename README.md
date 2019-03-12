@@ -1,1 +1,2 @@
-#Exercise-1
+Pradipta Dwi Haryadi
+haryadipradipta@gmail.com
